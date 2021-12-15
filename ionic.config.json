@@ -1,0 +1,7 @@
+{
+  "name": "firebaseCapPush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
